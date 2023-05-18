@@ -1,0 +1,10 @@
+{
+  "Supplier" : "B07SSManufacturing12",
+  "TaxOrganizationType" : "Corporation",
+  "SupplierType" : "Services",
+  "BusinessRelationship" : "Prospective",
+  "DUNSNumber" : "221131208",
+  "OneTimeSupplierFlag" : false,
+  "TaxpayerCountry" : "United States",
+  "TaxpayerId" : "98-03376373"
+}
